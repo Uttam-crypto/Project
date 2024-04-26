@@ -6,7 +6,7 @@ This project implements a Book Rental System using Spring Boot.
 
 1. Clone the repository:
    ```bash
-   https://github.com/Uttam-crypto/SampleProject.git
+   https://github.com/Uttam-crypto/Project.git
 
 2. Navigate to the project directory:
    cd book-rental-system
